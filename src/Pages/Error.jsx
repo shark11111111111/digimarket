@@ -5,6 +5,6 @@ export default function Error() {
     Error
     <img
     style={{ width:"500px",height:"500px"}}
-     src={img1} alt="error"/>
+     src={img1} alt="error-404"/>
   </div>;
 }
